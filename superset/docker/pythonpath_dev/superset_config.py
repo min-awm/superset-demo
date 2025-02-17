@@ -117,3 +117,11 @@ try:
     )
 except ImportError:
     logger.info("Using default Docker config...")
+
+DEFAULT_FEATURE_FLAGS = {
+    "EMBEDDED_SUPERSET": True,
+}
+
+TALISMAN_ENABLED = False
+GUEST_TOKEN_JWT_SECRET = "uCV0pmQ+RiMgxfMIhEylvTpZK3jCFvrF2OL6SYmyqvkpRqOKVR/YyD6T"
+GUEST_TOKEN_JWT_AUDIENCE= "superset"
