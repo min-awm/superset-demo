@@ -1,8 +1,8 @@
 # Superset demo
 
 
-## How to run
-[Youtube](https://youtu.be/gdqD6Laowt4)
+## List video tutorial
+[Youtube](https://youtube.com/playlist?list=PLiqkXFraavfVPsEbrEZkERqwyS7SEq1A3&si=pXq8WZBuWQ-BwnQz)
 
 ## Diagram
 ![Diagrams](https://raw.githubusercontent.com/min-awm/superset-demo/main/demo/diagram.png)
